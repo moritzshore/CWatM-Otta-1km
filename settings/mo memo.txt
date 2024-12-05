@@ -1,0 +1,5 @@
+conda activate jessica # to activate the python enviroment
+
+then you can install packages there with conda install xxxxx
+
+also, the batch script had to be updated to run the python exe from the jessica environment
